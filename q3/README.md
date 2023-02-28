@@ -11,3 +11,12 @@ Verifique se o arquivo que você recebeu está integro.
 $ md5sum enigma 
 81808a8ff591865c488f2ca93eb3090f  enigma
 ```
+
+## Steps
+
+To have a list of symbols from the library:
+
+```
+nm -C enigma
+```
+
