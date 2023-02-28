@@ -26,10 +26,14 @@ $ cd build && ctest
 
 ### Recompilar o test
 
+```
 $ cd Estudo-de-Caso/q2/cpp/tests/build
 $ make
+```
 
 ### Somente executar o test
 
+```
 $ cd Estudo-de-Caso/q2/cpp/tests/build
 $ ctest
+```
